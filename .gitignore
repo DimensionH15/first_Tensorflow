@@ -1,0 +1,7 @@
+venv/
+logs/
+model.h5
+scaler.pkl
+*.pkl
+*.h5
+*.keras
